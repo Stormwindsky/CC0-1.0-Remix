@@ -1,8 +1,8 @@
-# Credit(s):
+# Credit:
 
 Credit 2 AntumDeluge 4 the original images
 
-# Source(s):
+# Source's:
 
 https://opengameart.org/content/cc0-stave-icons
 
